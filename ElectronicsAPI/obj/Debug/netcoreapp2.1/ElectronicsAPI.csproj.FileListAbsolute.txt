@@ -1,0 +1,11 @@
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\bin\Debug\netcoreapp2.1\ElectronicsAPI.deps.json
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\bin\Debug\netcoreapp2.1\ElectronicsAPI.runtimeconfig.json
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\bin\Debug\netcoreapp2.1\ElectronicsAPI.runtimeconfig.dev.json
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\bin\Debug\netcoreapp2.1\ElectronicsAPI.dll
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.csprojAssemblyReference.cache
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.csproj.CoreCompileInputs.cache
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.RazorAssemblyInfo.cache
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.RazorAssemblyInfo.cs
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.AssemblyInfoInputs.cache
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.AssemblyInfo.cs
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.RazorTargetAssemblyInfo.cache

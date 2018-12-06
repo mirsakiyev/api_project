@@ -9,3 +9,6 @@ C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI
 C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.AssemblyInfoInputs.cache
 C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.AssemblyInfo.cs
 C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.RazorTargetAssemblyInfo.cache
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\bin\Debug\netcoreapp2.1\ElectronicsAPI.pdb
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.dll
+C:\COMP-306\ElectronicsAPI\ElectronicsAPI\obj\Debug\netcoreapp2.1\ElectronicsAPI.pdb

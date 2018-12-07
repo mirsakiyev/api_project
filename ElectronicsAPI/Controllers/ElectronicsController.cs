@@ -38,6 +38,7 @@ namespace ElectronicsAPI.Controllers
 
             var electronics = await _context.Electronics.FindAsync(id);
 
+
             if (electronics == null)
             {
                 return NotFound();

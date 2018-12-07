@@ -4,27 +4,27 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace ElectronicsAPI.Models
 {
-    public partial class electronicsdbContext : DbContext
+    public partial class ElectronicsdbContext : DbContext
     {
-        public electronicsdbContext()
+        public ElectronicsdbContext()
         {
         }
 
-        public electronicsdbContext(DbContextOptions<electronicsdbContext> options)
+        public ElectronicsdbContext(DbContextOptions<ElectronicsdbContext> options)
             : base(options)
         {
         }
 
         public virtual DbSet<Electronics> Electronics { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data Source=electronicsdb.cezkcufzbnsc.us-east-2.rds.amazonaws.com,1433; database=electronicsdb;User ID=aslanmr4project; Password=Xmj01k401;");
-            }
-        }
+//        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+//        {
+//            if (!optionsBuilder.IsConfigured)
+//            {
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+//                optionsBuilder.UseSqlServer("Data Source=electronicsdb.cezkcufzbnsc.us-east-2.rds.amazonaws.com,1433; database=electronicsdb;User ID=aslanmr4project; Password=Xmj01k401;");
+//            }
+//        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
